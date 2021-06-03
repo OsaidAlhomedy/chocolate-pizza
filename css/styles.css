@@ -1,0 +1,122 @@
+@import url('https://fonts.googleapis.com/css2?family=Gochi+Hand&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Titillium+Web:wght@200&display=swap');
+* {
+    box-sizing: border-box;
+}
+
+main {
+
+    background-image:linear-gradient(45deg, #4f4f4f 14.29%, #fafafa 14.29%, #fafafa 50%, #4f4f4f 50%, #4f4f4f 64.29%, #fafafa 64.29%, #fafafa 100%);
+    background-size: 9.90px 9.90px;
+}
+
+div {
+    width: 100%;
+    background-color: white;
+    margin-top: 10px;
+}
+
+#header {
+    margin-top: 0;
+    position: relative;
+    padding-bottom: 15px;
+    padding-top: 10px;
+    
+}
+
+#header * {
+    display: inline-block;
+
+}
+
+#name {
+    margin-top: 20px;
+}
+
+#name * {
+    display: block;
+}
+
+#name h1 {
+    font-family: 'Gochi Hand', cursive;
+    font-size: 40px
+}
+#name h2 {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+
+
+#links {
+    float: right;
+    margin-top: 30px;
+    margin-right: 20px;
+}
+
+#logo {
+    height: 60px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+ #rss {
+     margin-left:20px;
+ }
+
+
+
+ #middle {
+    padding-top: 40px;
+    text-align: center;
+ }
+
+ #middle section {
+     position: relative;
+     right: 31%;
+ }
+
+ #middle h1 {
+
+    font-family: 'Titillium Web', sans-serif;
+    font-weight: bolder;
+    font-size: 50px;
+    margin-bottom: 10px;
+
+ }
+
+ #middle h2{
+    position: relative;
+    right: 10px;
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 18px;
+
+ }
+
+#print {
+
+    display: block;
+    width: 30px;
+    position: relative;
+    left: 88%;
+    margin-bottom: 20px;
+
+}
+#choco {
+
+    width: 80%;
+
+}
+
+#middle p {
+    width: 70%;
+    text-align: justify;
+    font-size: 20px;
+    padding-top: 30px;
+    
+    
+
+}
+
+article {
+
+    
+}
